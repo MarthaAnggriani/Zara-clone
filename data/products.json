@@ -1,0 +1,182 @@
+[
+    {
+        "name": "SHORT TEXTURED WEAVE BLAZER",
+        "description": "Blazer featuring a lapel collar and long sleeves with shoulder pads. Lapel details on the front. Raised button fastening on the front.",
+        "price": 799000,
+        "stock": 10,
+        "imgUrl": "https://static.zara.net/photos///2023/V/0/1/p/2471/111/070/2/w/750/2471111070_6_1_1.jpg?ts=1674563505073",
+        "categoryId": 1,
+        "authorId": 1
+    },
+    {
+        "name": "SHAWL LAPEL BLAZER",
+        "description": "Blazer with a shawl collar and long sleeves. Front flap pockets and a welt chest pocket. Matching lining. Fastening at the front with a covered button in matching fabric.",
+        "price": 700000,
+        "stock": 5,
+        "imgUrl": "https://static.zara.net/photos///2023/V/0/1/p/2431/187/430/2/w/750/2431187430_6_1_1.jpg?ts=1676895650480",
+        "categoryId": 1,
+        "authorId": 2
+    },
+    {
+        "name": "JACQUARD WOOL BLEND COAT - LIMITED EDITION",
+        "description": "Long coat made of a wool blend. Round neck and long sleeves. Front patch pockets. Tie belt in the same fabric.",
+        "price": 1000000,
+        "stock": 8,
+        "imgUrl": "https://static.zara.net/photos///2023/V/0/1/p/2563/910/703/2/w/750/2563910703_6_1_1.jpg?ts=1675852063002",
+        "categoryId": 2,
+        "authorId": 1
+    },
+    {
+        "name": "SEAMLESS DRESS WITH GATHERED DETAILS",
+        "description": "Sleeveless dress with a round neckline. Gathered details with ties on the sides.",
+        "price": 349900,
+        "stock": 5,
+        "imgUrl": "https://static.zara.net/photos///2023/V/0/1/p/1014/323/807/2/w/750/1014323807_6_1_1.jpg?ts=1676361600733",
+        "categoryId": 3,
+        "authorId": 2
+    },
+    {
+        "name": "PRINTED DRESS WITH ASYMMETRIC HEM",
+        "description": "Midi dress made of cotton. Asymmetric neckline and wide straps. Tied belt in the same fabric. Invisible side zip fastening.",
+        "price": 999000,
+        "stock": 5,
+        "imgUrl": "https://static.zara.net/photos///2023/I/0/1/p/7694/019/615/2/w/750/7694019615_6_2_1.jpg?ts=1684136360264",
+        "categoryId": 3,
+        "authorId": 2
+    },
+    {
+        "name": "ZW UTILITY LOOSE FIT MID-RISE JEANS",
+        "description": "Mid-rise trousers with belt loops. Patch pockets with zips on the front and legs and back patch pockets. Wide-leg design. Front zip fly and button fastening.",
+        "price": 549900,
+        "stock": 10,
+        "imgUrl": "https://static.zara.net/photos///2023/V/0/1/p/9632/046/712/2/w/750/9632046712_6_1_1.jpg?ts=1679479806064",
+        "categoryId": 6,
+        "authorId": 2
+    },
+    {
+        "name": "CROCHET HALTER DRESS",
+        "description": "Halter dress featuring an adjustable V-neck with ties in the same fabric.",
+        "price": 999000,
+        "stock": 10,
+        "imgUrl": "https://static.zara.net/photos///2023/I/0/1/p/7521/306/620/2/w/750/7521306620_6_1_1.jpg?ts=1690356208202",
+        "categoryId": 3,
+        "authorId": 1
+    },
+    {
+        "name": "CONTRAST KNIT TOP WITH RUFFLED SLEEVES",
+        "description": "Sleeveless top with a round neck, ruffle trim, contrast poplin fabric and a buttoned opening at the back.",
+        "price": 749000,
+        "stock": 10,
+        "imgUrl": "https://static.zara.net/photos///2023/I/0/1/p/7200/014/800/2/w/750/7200014800_6_1_1.jpg?ts=1690196473160",
+        "categoryId": 5,
+        "authorId": 2
+    },
+    {
+        "name": "RIBBED COTTON T-SHIRT",
+        "description": "Round neck T-shirt made of cotton with short sleeves.",
+        "price": 199000,
+        "stock": 10,
+        "imgUrl": "https://static.zara.net/photos///2023/I/0/1/p/4174/172/104/2/w/750/4174172104_6_1_1.jpg?ts=1690183724019",
+        "categoryId": 4,
+        "authorId": 2
+    },
+    {
+        "name": "SHORT TAILORED WAISTCOAT",
+        "description": "V-neck waistcoat. Featuring false welt pockets and button fastening on the front.",
+        "price": 699900,
+        "stock": 10,
+        "imgUrl": "https://static.zara.net/photos///2023/I/0/1/p/7601/683/942/2/w/750/7601683942_6_1_1.jpg?ts=1685447835221",
+        "categoryId": 1,
+        "authorId": 2
+    },
+    {
+        "name": "STRAIGHT CROPPED HIGH-WAIST COMFORT JEANS",
+        "description": "High-waist jeans with a five-pocket design. Straight cropped leg. Front zip fly and button fastening.",
+        "price": 799000,
+        "stock": 10,
+        "imgUrl": "https://static.zara.net/photos///2023/I/0/1/p/6164/179/505/2/w/750/6164179505_6_1_1.jpg?ts=1690371994230",
+        "categoryId": 6,
+        "authorId": 2
+    },
+    {
+        "name": "OVERSHIRT WITH ADJUSTABLE WAIST",
+        "description": "Collared overshirt featuring turn-up long sleeves with buttoned tabs. Front flaps and an adjustable waist with drawstring. Front pockets. Snap-button fastenings at the front.",
+        "price": 799000,
+        "stock": 10,
+        "imgUrl": "https://static.zara.net/photos///2023/I/0/1/p/7901/124/711/2/w/750/7901124711_6_1_1.jpg?ts=1685452428220",
+        "categoryId": 4,
+        "authorId": 1
+    },
+    {
+        "name": "BELTED CARGO BERMUDAS",
+        "description": "High-waist Bermuda shorts with wrap-style front and front buckle. Side patch pockets with flaps. Invisible back zip fastening.",
+        "price": 699000,
+        "stock": 10,
+        "imgUrl": "https://static.zara.net/photos///2023/I/0/1/p/8073/058/505/2/w/750/8073058505_6_1_1.jpg?ts=1684855076697",
+        "categoryId": 7,
+        "authorId": 2
+    },
+    {
+        "name": "PRINTED REVERSIBLE KIMONO",
+        "description": "Open kimono with loose-fitting short sleeves and inner opening detail.",
+        "price": 2599000,
+        "stock": 10,
+        "imgUrl": "https://static.zara.net/photos///2023/I/0/1/p/9016/009/030/2/w/750/9016009030_6_1_1.jpg?ts=1689769026119",
+        "categoryId": 2,
+        "authorId": 2
+    },
+    {
+        "name": "LINEN BLEND CROPPED JACKET",
+        "description": "Jacket made of a linen blend fabric. Lapel collar and long sleeves. Front patch pockets. Button-up front.",
+        "price": 999000,
+        "stock": 10,
+        "imgUrl": "https://static.zara.net/photos///2023/I/0/1/p/7932/400/401/2/w/750/7932400401_6_1_1.jpg?ts=1687168749454",
+        "categoryId": 2,
+        "authorId": 2
+    },
+    {
+        "name": "OVERSIZE SHORT TRENCH COAT",
+        "description": "Trench coat with a lapel collar and a crossover neckline. Long sleeves with tabs. Belt with contrast buckle at the hem. Front button fastening.",
+        "price": 999000,
+        "stock": 10,
+        "imgUrl": "https://static.zara.net/photos///2023/V/0/1/p/4432/706/707/2/w/750/4432706707_6_1_1.jpg?ts=1681196395208",
+        "categoryId": 7,
+        "authorId": 2
+    },
+    {
+        "name": "PRINTED BLOUSE WITH BOW",
+        "description": "Cropped blouse made of a linen blend. Johnny collar and long wide sleeves. Button and tie fastening at the front.",
+        "price": 699000,
+        "stock": 10,
+        "imgUrl": "https://static.zara.net/photos///2023/I/0/1/p/7690/475/330/2/w/750/7690475330_6_1_1.jpg?ts=1688035762319",
+        "categoryId": 4,
+        "authorId": 2
+    },
+    {
+        "name": "SATIN PLAYSUIT",
+        "description": "V-neck playsuit with wide sleeves falling below the elbow. Elasticated waist. Lining. Fastening with buttoned opening at the back.",
+        "price": 799000,
+        "stock": 10,
+        "imgUrl": "https://static.zara.net/photos///2023/I/0/1/p/9878/236/505/2/w/750/9878236505_6_1_1.jpg?ts=1690388267703",
+        "categoryId": 3,
+        "authorId": 2
+    },
+    {
+        "name": "EMBROIDERED COTTON BLOUSE",
+        "description": "Long sleeve V-neck blouse made of cotton. Contrast embroidery detail. Button-up fastening at the front.",
+        "price": 799000,
+        "stock": 10,
+        "imgUrl": "https://static.zara.net/photos///2023/V/0/1/p/5107/046/251/2/w/750/5107046251_6_1_1.jpg?ts=1678705120546",
+        "categoryId": 4,
+        "authorId": 2
+    },
+    {
+        "name": "CROPPED POPLIN SHIRT",
+        "description": "Cropped collared shirt with short sleeves. Adjustable hem with drawstrings in the same fabric. Button-up front.",
+        "price": 799900,
+        "stock": 10,
+        "imgUrl": "https://static.zara.net/photos///2023/I/0/1/p/4437/249/707/2/w/750/4437249707_6_1_1.jpg?ts=1688714549759",
+        "categoryId": 4,
+        "authorId": 1
+    }
+]
